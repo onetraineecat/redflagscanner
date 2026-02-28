@@ -1,3 +1,5 @@
+<video src="redScaner.mp4" autoplay loop muted></video>
+
 # Legal Red Flag Scanner
 
 A Next.js application that scans US contracts (PDFs) for red-flag clauses, highlights them in a PDF viewer, and provides plain-English summaries and suggestions.
