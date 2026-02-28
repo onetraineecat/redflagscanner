@@ -1,4 +1,4 @@
-<video src="redScaner.mp4" width="100%" controls></video>
+[<video src="[redScaner.mp4](https://github.com/onetraineecat/redflagscanner/blob/main/redScaner.mp4)" width="100%" controls></video>](https://github.com/onetraineecat/redflagscanner/blob/main/redScaner.mp4)
 
 
 # Legal Red Flag Scanner
