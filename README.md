@@ -1,4 +1,5 @@
 <video src="https://github.com/onetraineecat/redflagscanner/blob/main/redScaner.mp4" controls></video>
+[Смотреть видео](./redScaner.mp4)
 
 
 # Legal Red Flag Scanner
