@@ -1,7 +1,4 @@
 <video src="https://github.com/user-attachments/assets/1a837703-f220-429f-88a4-b51707768b98" controls></video>
-[Смотреть видео](./redScaner.mp4)
-https://github.com/user-attachments/assets/1a837703-f220-429f-88a4-b51707768b98
-
 
 # Legal Red Flag Scanner
 
