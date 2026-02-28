@@ -1,4 +1,5 @@
-<video src="redScaner.mp4" autoplay loop muted></video>
+<video src="redScaner.mp4" width="100%" controls></video>
+
 
 # Legal Red Flag Scanner
 
